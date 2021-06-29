@@ -3,6 +3,8 @@ Get kakao imoticon image to use in telegram
 
 * * *
 
+<br />
+
 우리 회사는 사내 메신저로 텔레그램을 사용하고 있다   
 
 얼마전 텔레그램에서 스티커만들기(카카오톡으로 예를 들면 이모티콘 만들기) 기능을 보고   
