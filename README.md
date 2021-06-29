@@ -26,7 +26,7 @@ Get kakao imoticon image to use in telegram
 
 <br />
 
-## 이 프로젝트와 텔레그램 스티커 생성 사이의 관계
+## 이 프로젝트의 목적
 아래의 작업을 대신 해주는 api를 생성하고자 했다
 
 + 특정 카카오톡 이모티콘의 URL을 입력 받아서 이미지 추출
