@@ -41,7 +41,7 @@ Get kakao imoticon image to use in telegram
 ## 최종 작업 내용
 
 + 특정 카카오톡 이모티콘의 URL을 입력 받아서 이미지 추출
-   - 카카오톡 이모티콘을 불러오는 API를 활용
+   - 카카오톡 이모티콘을 불러오는 API 호출
 + 해당 이미지 크기 조절
    - Image 클래스의 getScaledInstance 함수 활용
 + 해당 이미지 배경 투명화 (배경이 있으면 이모티콘이라기보다 사진의 느낌이 났다)
