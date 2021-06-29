@@ -16,7 +16,7 @@ Get kakao imoticon image to use in telegram
 ## 텔레그램 스티커를 만드는 과정
 텔레그램 스티커를 만드는 과정은 아래와 같다
 
-1. 스티커봇(https://t.me/stickers)과의 대화 시작
+1. 스티커봇(https://t.me/stickers) 과의 대화 시작
 2. '/newpack' 명령어 입력
 3. 스티커 이름 입력
 4. 스티커로 사용할 이미지 전송 (최대 512px을 초과할 수 없고 가로 혹은 세로 혹은 가로 세로 중 하나를 512px로 맞춰야함)
