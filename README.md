@@ -1,4 +1,4 @@
-# getKakaoImoticon
+# get-kakao-imoticon
 Get kakao imoticon image to use in telegram
 
 * * *
